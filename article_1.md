@@ -3,5 +3,4 @@
 - Visit family in Germany
 - Take a cooking class in Italy
 - Road trip and mountain bike through the United States with my parents
-![Travel Photo](<img width="3024" height="3024" alt="Travel_Photo" src="https://github.com/user-attachments/assets/dcdc30b5-fb50-45a3-b372-bf656ec5572f" />
-)
+![Travel Photo](<img width="3024" height="3024" alt="Travel_Photo" src="https://github.com/user-attachments/assets/234b22f4-7c0b-496e-8ce2-244274cc37bc" />)
